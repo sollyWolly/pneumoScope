@@ -8,4 +8,4 @@ pneumoScope is a personal machine learning project designed to detect pneumonia 
 
 **3) Data Augmentation:** Augmenting the dataset is essential for training robust models. PneumoDetect includes data augmentation techniques and utilities to enhance model performance.
 
-# Disclaimer: I did this project through Google Colab notebooks, so there are errors specific to the environment.
+## Disclaimer: Project was done through Google Colab notebooks, so there are errors specific to the environment.
